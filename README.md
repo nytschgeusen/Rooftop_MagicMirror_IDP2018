@@ -7,4 +7,4 @@ Repository for the Magic Mirror group (EE Interdisciplinary project summer semes
 
 * Wiki of the Magic Mirror software project (https://github.com/MichMich/MagicMirror/wiki)
 
-* Usage of the Mmodule Hello World (https://github.com/MichMich/MagicMirror/tree/develop/modules/default/helloworld)
+* Usage of the Module Hello World (https://github.com/MichMich/MagicMirror/tree/develop/modules/default/helloworld)
