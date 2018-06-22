@@ -10,3 +10,7 @@ Repository for the MagicMirror group (EE Interdisciplinary project summer semest
 * Usage of the Module Hello World (https://github.com/MichMich/MagicMirror/tree/develop/modules/default/helloworld)
 
 * Link to the MagicMirror image for Raspberry Pi (http://cdnp.heise.de/1704-26.zip)
+
+## Information for individual MagicMirror modules
+
+* Netatmo module (https://github.com/CFenner/MMM-Netatmo)
